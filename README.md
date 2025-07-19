@@ -21,6 +21,10 @@ Updated version of vWeaponsToolkit v1.0.5 from 2022 with better code under the h
 2. Hit Build
 3. Run it
 
+### Build Not Working ?
+1. Copy the icon.ico into the `x64 > Release` folder
+2. Copy the `export` & `templates` folders into the `x64 > Release` folder
+
 ## Coming Soon
 
 ### Changes Planned:
