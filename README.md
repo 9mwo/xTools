@@ -20,8 +20,11 @@ Updated version of vWeaponsToolkit v1.0.5 from 2022 with better code under the h
 
 ### How to Build
 1. Open `xTools.sln` in Visual Studio
-2. Hit Build
-3. Run it
+2. Click Build
+3. Open `Configuartion Manager`
+4. Make sure the Configuration is set to `Release`
+5. Now you can go back, press `Build` then `Build Solution`
+6. Now Run it
 
 ### Build Not Working ?
 1. Copy the icon.ico into the `x64 > Release` folder
