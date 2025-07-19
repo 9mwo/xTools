@@ -14,7 +14,7 @@ Updated version of vWeaponsToolkit v1.0.5 from 2022 with better code under the h
 - Less likely to crash
 - Easier to work with
 - Runs smoother
-- Simpler to modify
+- Easier to modify
 
 ## Instructions
 
