@@ -16,6 +16,8 @@ Updated version of vWeaponsToolkit v1.0.5 from 2022 with better code under the h
 - Runs smoother
 - Simpler to modify
 
+## Instructions
+
 ### How to Build
 1. Open `xTools.sln` in Visual Studio
 2. Hit Build
@@ -24,6 +26,11 @@ Updated version of vWeaponsToolkit v1.0.5 from 2022 with better code under the h
 ### Build Not Working ?
 1. Copy the icon.ico into the `x64 > Release` folder
 2. Copy the `export` & `templates` folders into the `x64 > Release` folder
+3. Then try running the .exe you should have no issue now.
+
+### Dont want too build it ?
+1. No problem we provide both the source code and a build version for each new update
+2. This means if you dont feel liking building it, dont worry we got if built 4 you already
 
 ## Coming Soon
 
