@@ -30,7 +30,7 @@ Updated version of vWeaponsToolkit v1.0.5 from 2022 with better code under the h
 
 ### Dont want too build it ?
 1. No problem we provide both the source code and a build version for each new update
-2. This means if you dont feel liking building it, dont worry we got if built 4 you already
+2. This means if you dont feel liking building it, dont worry we got it built 4 you already
 
 ## Coming Soon
 
